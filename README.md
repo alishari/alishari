@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hey 👋, I'm AliSh 😉
+
+- 🔭 I'm currently an Android Engineer at [Snapp](https://github.com/snapp-cab)
+- 🌱 I’m currently learning Kotlin multiplatform
+- 📫 How to reach me: [Stackoverflow](https://stackoverflow.com/users/1105277/alish)
+, [LinkedIn](https://www.linkedin.com/in/alishariatb/), 
+[Twitter](https://www.twitter.com/ashariat91)!
 
 <!--
 **alishari/alishari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
