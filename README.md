@@ -1,6 +1,6 @@
 ## Hey 👋, I'm AliSh 😉
 
-- 🔭 I'm an Android Engineer at [Snapp](https://github.com/snapp-cab)
+- 🔭 I'm an Android Engineer
 - 🌱 I’m currently learning Kotlin multiplatform
 - 📫 How to reach me: [Stackoverflow](https://stackoverflow.com/users/1105277/alish)
 , [LinkedIn](https://www.linkedin.com/in/alishariatb/), 
